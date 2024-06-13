@@ -42,3 +42,5 @@ https://drive.google.com/file/d/1CPRCLJCUSg776a3-iNElwDkBSEoIH5t9/view?usp=shari
 ![11](https://github.com/AzharAlam147/Online-Shopping-Website-U-Buy/assets/73800301/e80c0eda-7853-44ed-a61b-150ef6e651ff)
 12.
 ![12](https://github.com/AzharAlam147/Online-Shopping-Website-U-Buy/assets/73800301/cacb4f86-0e07-4b2b-b2ea-4a36cd9d23c6)
+13.
+![13](https://github.com/AzharAlam147/Online-Shopping-Website-U-Buy/assets/73800301/df8563d1-c191-4e2e-a89c-a3e451687643)
