@@ -49,9 +49,6 @@ https://drive.google.com/file/d/1fwIeoPDsFgPe57DmjzthJYpN5WNKmOI0/view?usp=shari
 ![13](https://github.com/AzharAlam147/Online-Shopping-Website-U-Buy/assets/73800301/d03a7567-7b3b-4d81-923f-6a5a9f85d918)
 14.
 ![14](https://github.com/AzharAlam147/Online-Shopping-Website-U-Buy/assets/73800301/b8e9553e-2f3f-4447-9b75-c8573e954d23)
-15.
-![15](https://github.com/AzharAlam147/Online-Shopping-Website-U-Buy/assets/73800301/9e6a78ae-2b6b-4f4d-ae97-55cb1e482f24)
-16.
-![17](https://github.com/AzharAlam147/Online-Shopping-Website-U-Buy/assets/73800301/c1e49505-4e42-4722-be94-7370f03f2e5a)
-17.
-![18](https://github.com/AzharAlam147/Online-Shopping-Website-U-Buy/assets/73800301/df4ccea0-1ab2-4b84-a274-47bab0ab29e2)
+15. ![15](https://github.com/AzharAlam147/Online-Shopping-Website-U-Buy/assets/73800301/9e6a78ae-2b6b-4f4d-ae97-55cb1e482f24)
+16. ![17](https://github.com/AzharAlam147/Online-Shopping-Website-U-Buy/assets/73800301/c1e49505-4e42-4722-be94-7370f03f2e5a)
+17. ![18](https://github.com/AzharAlam147/Online-Shopping-Website-U-Buy/assets/73800301/df4ccea0-1ab2-4b84-a274-47bab0ab29e2)
