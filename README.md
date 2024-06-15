@@ -1,8 +1,11 @@
 # Online-Shopping-Website-U-Buy
 A website made on .NET Core using Entity Framework based on MVC structure
 
+#Who Am I?
+Hello! My name is Azhar. I am a Software Developer, and I made this test website on .NET core Entity Framework with SQL database. I use HTML,CSS, Javascript, and Bootstrap for UI design. This is a simple online shopping website Based on MVC Framework in which model and view controlled by Controller.In this website CRUD operations wer performed and the NavBar items are coming from Database table. The Screenshots are attached with the link of drive download it change the DB path and practice 👍.
+
 # Drive Link:
-https://drive.google.com/file/d/1CPRCLJCUSg776a3-iNElwDkBSEoIH5t9/view?usp=sharing
+https://drive.google.com/file/d/1fwIeoPDsFgPe57DmjzthJYpN5WNKmOI0/view?usp=sharing
 
 # Features:
 1. Slider
